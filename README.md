@@ -2,10 +2,7 @@
 
 A modern, AI-powered fitness tracking application built with React, Vite, and TailwindCSS.
 
-## Live Demo
-Use the **"Use Demo Account"** button on the login page, or sign in with:
-- Email: `alex@fittrack.ai`  
-- Password: `password123`
+
 
 ## Features
 
@@ -31,20 +28,8 @@ Use the **"Use Demo Account"** button on the login page, or sign in with:
 | State | React Context API |
 | AI | OpenAI GPT-4 |
 
-## Getting Started
 
-```bash
-npm install
-npm run dev
-```
 
-Visit `http://localhost:5173`
-
-## Production Build
-
-```bash
-npm run build
-# Deploy dist/ to Netlify, Vercel, or GitHub Pages
 ```
 
 ## Project Structure
@@ -83,6 +68,4 @@ GET  /api/analytics/weekly/
 GET  /api/gamification/leaderboard/
 ```
 
-## License
 
-MIT — free for personal and commercial use.
