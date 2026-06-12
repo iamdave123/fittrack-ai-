@@ -59,15 +59,25 @@ For production, extend with:
 ```
 
 .....
+
 POST /api/auth/register/
+
 POST /api/auth/login/
+
 GET  /api/activity/today/
+
 POST /api/workouts/
+
 GET  /api/workouts/recommendations/
+
 POST /api/nutrition/meals/
+
 POST /api/ai/coach/chat/
+
 GET  /api/analytics/weekly/
+
 GET  /api/gamification/leaderboard/
+
 ```
 
 
