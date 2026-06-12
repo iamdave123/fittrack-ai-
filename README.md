@@ -57,6 +57,8 @@ For production, extend with:
 
 ### Key API Endpoints
 ```
+
+.....
 POST /api/auth/register/
 POST /api/auth/login/
 GET  /api/activity/today/
